@@ -1,5 +1,5 @@
 """
-HackerRank Python - 25  Questions with Solutions
+HackerRank Python - 25  Questions in python  for practice
 -----------------------------------------------------
 
 """
